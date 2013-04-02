@@ -1,3 +1,5 @@
+--implemented by Elliot Ding
+
 module NTest where
 
 import Data.List (sort,group)
